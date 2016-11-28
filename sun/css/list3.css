@@ -1,0 +1,108 @@
+#smallPic{
+	    width:400px;
+		height:400px;
+		position:absolute;
+		left:130px;
+		top:120px;
+		background:url(../images/shopping/shaop-big.jpg) no-repeat;
+		background-size:cover;
+		border: 1px solid #000;
+		
+}
+#smallCursor{
+	    position:absolute;
+        width:30px;
+        height:30px;
+        background:rgba(200,200,255,0.6);	
+		display:none;
+		
+}
+#bigCursor{
+	    width:500px;
+		height:336px;
+		position:absolute;
+		left:550px;
+		top:120px;
+		background:rgba(0,0,0,0.2);
+		overflow:hidden;
+		z-index: 10;
+		/* display:none; */
+}
+#bigPic{
+	    position:absolute;
+}
+
+
+
+
+
+#shop #sp1{
+	height:20px;
+	padding-left: 30px;
+	display:block;
+}
+#shop #sp1 .sp1{
+	color: #ccc;
+}	  
+#shop .oul{list-style: none;}
+#shop .oul li{
+	width: 80px;
+	height: 80px;
+	border: 1px solid #ccc;
+	margin: 10px;
+}
+#shop .oul li:hover{
+	border: 2px solid red;
+}
+#shop #word{
+	widows: 680px;
+	height: 400px;
+	left: 570px;
+	top: 120px;
+	position:absolute;
+}
+
+#shop #word .top{
+	width: 680px;
+	height: 70px;
+	border-bottom: 1px dashed #ccc;
+}
+#shop #word .top>p{
+	color: red; 
+	margin: 10px;
+}
+
+#shop #word .con{
+	width: 680px;
+	height: 180px;
+	border-bottom: 1px dashed #ccc;
+}
+#shop #word .con p{
+	color: #666;
+	margin: 15px;
+}
+#shop #word .con .p1 span{
+	font-size: 20px;
+	color: red;
+}
+#shop #word .con .p2 span{
+	text-decoration: line-through;
+}
+#shop #word .con .p5 img{
+	display: inline-block;
+	position: absolute;
+	left: 71px;
+	top: 218px;
+}
+#shop #word .con .p5 span{
+	color: red;
+	padding-left: 90px;
+}
+
+
+
+
+
+
+
+

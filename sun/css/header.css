@@ -1,0 +1,190 @@
+@import url("resize.css");
+#header{
+	height: 96px;
+}
+#header .top{
+	height: 29px;
+	background: #f7f7f7;
+	border-bottom:1px solid #eee;
+}
+#header .top .w{
+	height: 29px;
+}
+#header .top .w .le{
+	height: 29px;
+	width: 90px;
+}
+#header .top .w .ri div.er{
+	display: none;
+}
+#header .top .w .ri div.er span.l{
+	width: 100px;
+	height: 29px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow:ellipsis ;
+}
+#header .top .w .le a{
+	line-height: 29px;
+	width: 75px;
+	padding-left:16px;
+	background: url(../images/top_icon.png) no-repeat;
+}
+#header .top .w .ri{
+	width: 800px;
+}
+#header .top .w .ri .dl{
+	background: #f5f5f5;
+	overflow: hidden;
+}
+
+#header .top .w .ri s{
+	width: 1px;
+	height: 14px;
+	margin-top:7px;
+	float: left;
+	background: #ccc;
+}
+#header .top .w .ri .l{
+	display: inline;
+	line-height: 29px;
+	position: relative;
+	padding:0px 10px;
+}
+#header .top .w .ri .l:hover{
+	background: #f7f7f7;
+}
+#header .top .w .ri .dl:hover{
+	background: #f7f7f7;
+}
+#header .top .w .ri span.l:hover{
+	background: #f7f7f7;
+}
+#header .top .w .ri .l a{
+	overflow: hidden;
+}
+#header .top .w .ri .last a{
+	overflow: hidden;
+	padding-left: 16px;
+	background: url(../images/top_bar_cart.png) 0 3px no-repeat
+}
+#header .top .w .ri .l i{
+	float: right;
+	width: 7px;
+	height: 4px;
+	margin:3px;
+	margin-top:13px;
+	background: url(../images/top_bar_icon.png);
+	overflow: hidden;
+	transition:all 0.4s ease;
+}
+#header .top .w .ri .l:hover i{
+		transform:rotate(180deg);
+}
+#header .top .w .ri .l .hea_tp_js{
+	overflow: hidden;
+	position: absolute;
+	top: 29px;
+	left: 0px;
+	z-index: 10;
+	background: white;
+	padding: 3px;
+	min-width: 70px;
+	display:none;
+}
+#header .top .w .ri .l .hea_tp_js div:hover{
+	background: #f1f1f1;
+}
+#header .down{
+	height: 66px;
+	width: 100%;
+	font-size: 14px;
+	line-height: 63px;
+	background: white;
+		
+	margin: 0 auto;
+}
+#header .down .le{
+	width: 535px;
+}
+#header .down .le #logo{
+	margin-top: 10px;
+	height: 38px;
+	width:149px ;
+	background: url(../images/logo.png);
+}
+#header .down .le ul{
+	position: relative;
+}
+#header .down .le ul li{
+	width: 80px;
+	text-align: center;
+}
+#header .down .le ul li div.xian{
+	width: 80px;
+	height: 3px;
+	text-align: center;	
+}
+#header .down .le ul li div.xian i{
+	display:block;
+	margin: 0 auto;
+	background: #616;
+	width: 0px;
+	height: 3px;
+}
+/*j-------------------------------------------s*/
+.hea_down_js{
+	display: none;
+	position: absolute;
+	width: 850px;
+	left: -30px;
+	top: 66px;
+	overflow: hidden;
+	text-align: left;
+	z-index: 10;
+	opacity: .9;
+	background: white;
+}
+.hea_down_js .mc{
+
+	padding-left: 40px;
+	width: 114px;
+	height: 250px;
+	margin-top:10px;
+	margin-right:15px; 
+	overflow: hidden;
+	padding-bottom:4px;
+	border-right: 1px dotted #dadada; 
+}
+.hea_down_js .mc div{
+	overflow: hidden;
+	line-height: 22px;
+}
+.hea_down_js .mc div a{
+	font-size:12px; 
+	color: #3e3e3e;
+}
+.hea_down_js .mc div a:hover{
+	color: #6e6e6e;
+}
+#header .down .ri{
+	line-height: 34px;
+	width: 205px;
+	margin:20px 65px 0px 0px;
+	height: 34px;
+	border: 1px solid #ccc;
+}
+#header .down .ri .l input{
+	line-height: 34px;
+	padding-left:5px ;
+	width: 100px;
+}
+#header .down .ri .r{
+	height: 34px;
+	background:url(../images/search-icon.png) 7px 7px no-repeat;
+}
+#header .down .ri .r input{
+	width:34px;
+	height: 34px;
+	cursor: pointer;
+}

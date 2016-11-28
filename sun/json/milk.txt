@@ -1,0 +1,39 @@
+﻿{
+		'page1':[
+			{'id':1,'ima':'../images/milk/1.jpg','dis':"7.2",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉1+段(1岁以上)600g*2",'pic':'289.00','cost':'300.00'},
+		    {'id':2,'ima':'../images/milk/2.jpg','dis':"7.1",'title':"【海外直邮】荷兰Nutrilon牛栏婴儿本土奶粉5段(2周岁以",'pic':'289.00','cost':'300.00'},
+		    {'id':3,'ima':'../images/milk/3.jpg','dis':"8.2",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉1段(0-6个月) 800g*2",'pic':'289.00','cost':'300.00'},
+		    {'id':4,'ima':'../images/milk/4.jpg','dis':"7.9",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉2段(6-10个月) 800g*2",'pic':'289.00','cost':'300.00'},
+		    {'id':5,'ima':'../images/milk/5.jpg','dis':"8.6",'title':"【海外直邮】荷兰 Nutrilon 牛栏婴儿配方奶粉1段（0-6",'pic':'289.00','cost':'300.00'},
+		    
+		    {'id':6,'ima':'../images/milk/6.jpg','dis':"6.3",'title':"【海外直邮】荷兰Nutrilon牛栏婴儿本土奶粉6段(3周岁以",'pic':'289.00','cost':'300.00'},
+		    {'id':7,'ima':'../images/milk/7.jpg','dis':"6.9",'title':"【海外直邮】德国Hipp喜宝有机奶粉1+ 800g*2【包邮】",'pic':'289.00','cost':'300.00'},
+		    {'id':8,'ima':'../images/milk/8.jpg','dis':"8.2",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉PRE段(0-3个月) ",'pic':'289.00','cost':'300.00'},
+		    {'id':9,'ima':'../images/milk/9.jpg','dis':"7.2",'title':"【海外直邮】荷兰Hero Baby美素婴儿本土奶粉4段（1岁以上）700g*2盒 包邮",'pic':'289.00','cost':'300.00'},
+		    {'id':10,'ima':'../images/milk/10.jpg','dis':"7.8",'title':"【海外直邮】荷兰Hero Baby美素婴儿本土奶粉3段（10个月以",'pic':'289.00','cost':'300.00'},
+		    
+		    {'id':11,'ima':'../images/milk/11.jpg','dis':"7.8",'title':"【海外直邮】荷兰Hero Baby美素婴儿本土奶粉美素1段(0-6个",'pic':'289.00','cost':'300.00'},
+		    {'id':12,'ima':'../images/milk/12.jpg','dis':"7.2",'title':"【海外直邮】荷兰Nutrilon牛栏婴儿本土奶粉3段（10-15个月）",'pic':'289.00','cost':'300.00'},
+		    {'id':13,'ima':'../images/milk/13.jpg','dis':"7.2",'title':"【海外直邮】荷兰Hero Baby美素婴儿本土奶粉5段（2岁以上）700g*2盒 包邮",'pic':'289.00','cost':'300.00'},
+		    {'id':14,'ima':'../images/milk/14.jpg','dis':"8.6",'title':"【海外直邮】荷兰Nutrilon牛栏婴儿本土奶粉2段（6-10个月）",'pic':'289.00','cost':'300.00'},
+		    {'id':15,'ima':'../images/milk/15.jpg','dis':"7.2",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉2+段(2岁以上)600g*2",'pic':'289.00','cost':'300.00'},
+		    
+		    {'id':16,'ima':'../images/milk/16.jpg','dis':"7.5",'title':"【海外直邮】德国Hipp喜宝益生菌奶粉1+段 600g*2【包邮】",'pic':'289.00','cost':'300.00'},
+		    {'id':17,'ima':'../images/milk/17.jpg','dis':"6.9",'title':"【海外直邮】荷兰Nutrilon牛栏婴儿本土奶粉4段(一周岁以)",'pic':'289.00','cost':'300.00'},
+		    {'id':18,'ima':'../images/milk/18.jpg','dis':"7.6",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉3段(10-12个月) ",'pic':'289.00','cost':'300.00'},
+		    {'id':19,'ima':'../images/milk/19.jpg','dis':"7.8",'title':"【海外直邮】荷兰Hero Baby美素婴儿本土奶粉美素2段(6-10个月)800g*2盒 包邮",'pic':'289.00','cost':'300.00'},
+		    {'id':20,'ima':'../images/milk/20.jpg','dis':"7.2",'title':"【海外直邮】德国Hipp喜宝益生菌奶粉2段 600g*2【包邮】",'pic':'289.00','cost':'300.00'}
+		],
+		page2:[
+			{'id':21,'ima':'../images/milk/21.jpg','dis':"7.2",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉1+段(1岁以上)600g*2",'pic':'289.00','cost':'300.00'},
+		    {'id':22,'ima':'../images//milk22.jpg','dis':"7.1",'title':"【海外直邮】荷兰Nutrilon牛栏婴儿本土奶粉5段(2周岁以",'pic':'289.00','cost':'300.00'},
+		    {'id':23,'ima':'../images/milk/23.jpg','dis':"8.2",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉1段(0-6个月) 800g*2",'pic':'289.00','cost':'300.00'},
+		    {'id':24,'ima':'../images/milk/24.jpg','dis':"7.9",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉2段(6-10个月) 800g*2",'pic':'289.00','cost':'300.00'},
+		    {'id':25,'ima':'../images/milk/25.jpg','dis':"8.6",'title':"【海外直邮】荷兰 Nutrilon 牛栏婴儿配方奶粉1段（0-6",'pic':'289.00','cost':'300.00'},
+		    
+		    {'id':26,'ima':'../images/milk/26.jpg','dis':"6.3",'title':"【海外直邮】荷兰Nutrilon牛栏婴儿本土奶粉6段(3周岁以",'pic':'289.00','cost':'300.00'},
+		    {'id':27,'ima':'../images/milk/27.jpg','dis':"6.9",'title':"【海外直邮】德国Hipp喜宝有机奶粉1+ 800g*2【包邮】",'pic':'289.00','cost':'300.00'},
+		    {'id':28,'ima':'../images/milk/28.jpg','dis':"8.2",'title':"【海外直邮】德国Aptamil爱他美婴儿奶粉PRE段(0-3个月) ",'pic':'289.00','cost':'300.00'},
+		    {'id':29,'ima':'../images/milk/29.jpg','dis':"7.2",'title':"【海外直邮】荷兰Hero Baby美素婴儿本土奶粉4段（1岁以上）700g*2盒 包邮",'pic':'289.00','cost':'300.00'},
+		    {'id':30,'ima':'../images/milk/30.jpg','dis':"7.8",'title':"【海外直邮】荷兰Hero Baby美素婴儿本土奶粉3段（10个月以",'pic':'289.00','cost':'300.00'}
+	]}

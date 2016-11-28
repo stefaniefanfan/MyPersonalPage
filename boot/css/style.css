@@ -1,0 +1,44 @@
+.fc-wh {
+  color: #fff;
+}
+.header {
+  color: #fff;
+  background: #c2fcd9;
+  font-size: 20px;
+  height: 50px;
+  line-height: 50px;
+}
+.footer {
+  height: 50px;
+  background: #c2fcd9;
+}
+.wrap {
+  width: 1170px;
+  min-height: 150px;
+  margin: 0 auto;
+  background: pink;
+  border-radius: 100px;
+}
+.wrap h1 {
+  font-size: 30px;
+}
+.wrap p {
+  padding: 20px;
+}
+.wrap p a {
+  display: block;
+  font-size: 20px;
+}
+.wrap p a:hover {
+  color: #f8fba2;
+}
+.mycolor {
+  background: #c2fcd9;
+  height: 200px;
+}
+.img {
+  width: 100%;
+}
+.threepic {
+  padding-top: 20px;
+}
